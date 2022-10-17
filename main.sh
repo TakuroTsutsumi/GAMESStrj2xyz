@@ -1,5 +1,5 @@
 #!/bin/bash
-# Command: bash main.sh -f TS3_modNHC_IRCf.trj -b TS3_modNHC_IRCb.trj -c 5 
+# Command: bash main.sh -f foward.trj -b backward.trj -c 5 
 
 # Initial parameters
 PYTHON3ROOT=""
